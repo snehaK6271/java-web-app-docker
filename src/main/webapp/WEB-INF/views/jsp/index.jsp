@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Successufully deployed the java-web-application as a container through jenkins CI/CD pipeline script..</h2>
+			<h2>Successufully deployed the java-web-application as a container through jenkins CI/CD pipeline script 2nd time..</h2>
 			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
 		</div>	
 	</div>
